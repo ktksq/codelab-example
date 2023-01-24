@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-01-24T14:26:09+09:00",
+  "id": "docs",
+  "duration": 6,
+  "title": "CodeLab-Example",
+  "summary": "CodeLab-Example",
+  "source": "./codelab-example.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": null,
+  "tags": [
+    "web"
+  ],
+  "url": "docs"
+}
